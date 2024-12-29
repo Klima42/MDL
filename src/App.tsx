@@ -36,7 +36,7 @@ export function App() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="flex items-center justify-center gap-2 mb-8">
           <CheckSquare size={32} className="text-blue-500" />
-          <h1 className="text-3xl font-bold text-gray-900">Advanced Todo App</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Must Do List</h1>
         </div>
 
         <div className="grid gap-8">
